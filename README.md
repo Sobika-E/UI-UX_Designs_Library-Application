@@ -16,3 +16,6 @@ This repository contains the UI/UX designs for a **Library Application** focused
 ## 📂 Folder Structure
 
 This repository contains the UI/UX designs for a Library Application aimed at providing an intuitive and user-friendly experience for ordering a library books
+
+## 🔗 View the Design
+[Click here to view the design files](https://www.figma.com/design/j4gwyDqQVg2zoyj3LxBGmt/CAT1?node-id=0-1)
